@@ -85,7 +85,7 @@ body::before {
 }
 
 .login_body button:hover {
-    background-color: #fc1722;
+    background-color: #bafff9;
     cursor: pointer;
 }
 
@@ -165,4 +165,5 @@ body::before {
 
 .terms a:hover {
     text-decoration: underline;
+
 }
